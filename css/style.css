@@ -510,6 +510,14 @@ i {
   min-height: 80px;
 }
 
+.article-article a {
+  color: var(--clr-bg-primary);
+}
+
+.article-article a:hover {
+  box-shadow: 0px 4px 4px -3px #ee5622;
+}
+
 .footer {
   margin-top: 100px;
   text-align: center;
